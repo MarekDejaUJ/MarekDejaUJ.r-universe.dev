@@ -1,0 +1,35 @@
+[
+  {
+    "package": "IndeksH",
+    "url": "https://github.com/MarekDejaUJ/jezykr2",
+    "subdir": "IndeksH"
+  },
+  {
+    "package": "CausalBoundsR",
+    "url": "https://github.com/michaljanus-student/casual-bonds-r"
+  },
+  {
+    "package": "WyparcieR",
+    "url": "https://github.com/mendelowska-karolina/wyparcie-r"
+  },
+  {
+    "package": "RamyR",
+    "url": "https://github.com/nika0410/RamyR"
+  },
+  {
+    "package": "BrakiDanychUX",
+    "url": "https://github.com/BBochenczak19D/BrakiDanychUX"
+  },
+  {
+    "package": "WskaznikI3R",
+    "url": "https://github.com/milakasz08/WskaznikI3R"
+  },
+  {
+    "package": "KaskadaR",
+    "url": "https://github.com/eryktomaszek/KaskadaR"
+  },
+  {
+    "package": "PrzelomoweR",
+    "url": "https://github.com/samisamisamisami333/PrzelomoweR"
+  }
+]
