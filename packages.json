@@ -1,5 +1,9 @@
 [
   {
+    "package": "rzig",
+    "url": "https://github.com/MarekDejaUJ/rzig"
+  },
+  {
     "package": "IndeksH",
     "url": "https://github.com/MarekDejaUJ/jezykr2",
     "subdir": "IndeksH"
